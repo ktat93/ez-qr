@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="assets/logo_white.svg" alt="EZQR" width="220" style="background:#1d2030;padding:16px 24px;border-radius:12px;" />
+  <img src="logo_dark.png" alt="EZQR" width="220" />
 </p>
 
 <h1 align="center">EZQR API</h1>
 
 <p align="center">Generate, update, and track QR codes programmatically.</p> The EZQR API is a REST API that lets you create static and dynamic QR codes, manage landing pages, and pull scan analytics from your own systems.
 
-Full documentation: https://ez-qr.com/docs/api
-Live API reference: https://ez-qr.com/swagger
+Interactive API reference: https://ez-qr.com/swagger
 
 ---
 
@@ -544,7 +543,7 @@ GET https://ez-qr.com/.well-known/openapi
 
 You can import this into Postman, Insomnia, or any API client that supports OpenAPI.
 
-An interactive Swagger UI is available at https://ez-qr.com/swagger.
+An interactive Swagger UI is available at https://ez-qr.com/swagger
 
 ---
 
